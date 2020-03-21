@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+{<img src="https://circleci.com/gh/xxCoDeBoX/ML-Microservice.svg?style=svg" alt="xxCoDeBoX" />}[https://circleci.com/gh/xxCoDeBoX/ML-Microservice]
 
 ## Project Overview
 
