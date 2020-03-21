@@ -19,7 +19,7 @@ You are given a pre-trained, `sklearn` model that has been trained to predict ho
 
 ### Kubernetes Steps
 
-* Setup and Configure Docker locally
-* Setup and Configure Kubernetes locally
+* Setup and Configure Docker locally via minikube
+* Setup and Configure Kubernetes locally via minikube
 * Create Flask app in Container
 * Run via kubectl
