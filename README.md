@@ -1,4 +1,4 @@
-{<img src="https://circleci.com/gh/xxCoDeBoX/ML-Microservice.svg?style=svg" alt="xxCoDeBoX" />}[https://circleci.com/gh/xxCoDeBoX/ML-Microservice]
+{<img src="https://circleci.com/gh/xxCoDeBoX/ML-Microservice.svg?style=svg" alt="xxCoDeBoX" />}
 
 ## Project Overview
 
