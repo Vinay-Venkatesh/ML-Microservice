@@ -1,0 +1,11 @@
+(base) vinays-MacBook-Air:ML-Microservice vinayv$ sudo ./run_kubernetes.sh 
+
+NAME                      READY   STATUS    RESTARTS   AGE
+
+ml-api-54f688cc5c-95sbv   1/1     Running   0          11m
+
+Forwarding from 127.0.0.1:8000 -> 80
+
+Forwarding from [::1]:8000 -> 80
+
+Handling connection for 8000
